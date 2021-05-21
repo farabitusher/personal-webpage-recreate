@@ -1,0 +1,90 @@
+.first-section{
+    font-family: poppins 
+    ;
+}
+section{
+    height: 700px;
+}
+h1{
+    font-size: 60px;
+    font-family: 'Poppins', sans-serif;
+    line-height: 1;
+}
+h2{
+    margin-bottom: 20px;
+}
+.orange-name-highlight{
+    color: #FF8367;
+}
+.half-width{
+    width: 40%;
+    padding-left: 2%;
+    float: left;
+    margin-left: 5%;
+
+}
+.half-width img{
+    width: 80%;
+}
+.button{
+    background-color:#F86A61;
+    padding: 20px 30px;
+    text-decoration: none;
+    color: white;
+    margin-top: 30px;
+}
+
+.mid-three-section{
+    height: 600px;
+}
+.latest-work{
+    text-align: center;
+
+}
+
+
+
+.one-third{
+    width: 30%;
+    padding: 5px;
+    
+    float: left;
+    display: flex;
+    background-repeat: no-repeat;
+    align-items:stretch;
+}
+.one-third img{
+    width: 90%;
+    align-items: center;
+   box-shadow: 10px 10px 40px gray;
+   border-radius: 10px;
+    
+}
+
+.two{
+    margin-left:70px;
+}
+.mid-three-section{
+    background-color: #F8F9FC;
+    align-items: center;
+    margin-top: 100px;
+    padding-top: 50px;
+}
+.box{
+    align-items: center;
+}
+.last-part{
+    border: 1px solid yellow;
+}
+.half-width-mid{
+    width: 40%;
+    padding: 2%;
+    float: left;
+}
+.low{
+    align-self: center;
+    text-align: center;
+   background: tomato;
+}
+
+   
